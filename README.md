@@ -1,3 +1,5 @@
+[블로그](https://velog.io/@soosungp33/series/FestivalListApp)
+---
 # Festival_List_App
 1. 카카오 로그인 서비스
    - 카카오 로그인 API키를 이용하여 회원가입 절차를 거치지 않아도 간편하게 앱을 이용할 수 있도록 편의성 제공
